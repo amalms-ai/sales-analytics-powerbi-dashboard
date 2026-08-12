@@ -33,14 +33,13 @@ This project analyzes sales data using Microsoft Power BI to identify sales perf
 
 ![Sales Overview](Sales%20Overview.png)
 
-# Page 2 — Sales Performance Analytics
-
-![Sales Performance Analytics](Sales%20Performance%20Analytics.png)
-
-# Page 3 — Product & State Analysis
+# Page 2 — Product & State Analysis
 
 ![Product & State Analysis](Product%20%26%20State%20Analysis.png)
 
+# Page 3 — Sales Performance Analytics
+
+![Sales Performance Analytics](Sales%20Performance%20Analytics.png)
 # Power BI File
 
 The complete Power BI `.pbix` file is available in this repository:
