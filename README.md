@@ -57,6 +57,10 @@ The complete Power BI `.pbix` file is available in this repository:
 - Business Intelligence
 - Data Visualization
 
-# Author
+#Author
 
 Amal M S
+
+BCA Graduate | Aspiring Data Analyst
+
+Skills:Power BI | SQL | Python | Data Analytics | Data Visualization
